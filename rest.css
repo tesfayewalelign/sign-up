@@ -1,0 +1,34 @@
+
+        .forgot-password-container {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        .forgot-password-form {
+            display: none; 
+            margin-top: 20px;
+        }
+
+        .forgot-password-form input {
+            padding: 10px;
+            width: 200px;
+            margin: 10px 0;
+        }
+
+        .forgot-password-form button {
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        .forgot-password-form button:hover {
+            background-color: #45a049;
+        }
+
+        .forgot-password-link {
+            color: blue;
+            cursor: pointer;
+        }
+    
